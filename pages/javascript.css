@@ -1,0 +1,36 @@
+* {
+    background-color:antiquewhite;
+}
+
+body main section header nav .container-fluid img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 30px;
+    padding: 20 10 10 20px;
+}
+
+.separador {
+    border: 1px solid black;
+    height: 50px;
+    max-width: 4px;
+    padding: 0;
+}
+
+.body main section div {
+    justify-content: center;
+}
+
+#redirect-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 200px;
+    border-radius: 10px;
+}
+
+#see-more {
+    display: flex;
+    margin: auto;
+}
